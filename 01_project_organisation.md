@@ -2,8 +2,6 @@
 
 **Status:** draft · **Last revised:** 2026-10-06
 
-*Items marked `[TO CONFIRM: ...]` are still under discussion.*
-
 ---
 
 ## 1. Why this document exists
@@ -304,7 +302,6 @@ the figure will have to be remade later.
 produced each figure. The simplest way is for the script that writes
 `as4_rg_a99sb_v1.pdf` to be the only one whose code contains that file name, so
 `grep` will find it.
-`[TO CONFIRM: is a stricter link wanted, e.g. a comment in the figure-making cell listing the input trajectory paths, or a small figures index in the README?]`
 
 **Check your `.gitignore` doesn't hide figures.** A blanket `*.pdf` or `*.png`
 ignore rule (common for keeping literature PDFs or scratch plots out of git) also
@@ -325,7 +322,7 @@ own desktop or laptop and run on a GPU server or an HPC cluster. Clusters have
 their own submission rules; read and follow them, they are outside the scope of
 this document.
 
-The same project can therefore exist in several places at once. Three rules:
+The same project can therefore exist in several places at once. Four rules:
 
 1. **Same relative layout everywhere.** `~/Research/Projects/<Category>/<Project>/`
    with the same internal structure on every machine. A script that works on one
@@ -338,13 +335,16 @@ The same project can therefore exist in several places at once. Three rules:
    there. Raw data in `data/` is moved with `rsync` (or `scp`), preserving the
    directory structure and file names.
 
-3. **Know where the canonical copy of the raw data is.** For every set of
-   trajectories, one machine holds the authoritative copy. Other copies are
-   working copies and can be deleted. Write the location in the README (§7).
-   If two machines hold different versions of "the same" trajectory, you have a
-   problem that will appear in the paper.
+3. **The canonical copy lives on your desktop.** Your own desktop computer
+   holds the authoritative copy of the project, raw data included. Copies on
+   clusters, GPU servers and laptops are working copies: once a run finishes,
+   bring its output back to your desktop, and from then on treat the remote copy
+   as disposable. If two machines hold different versions of "the same"
+   trajectory, you have a problem that will appear in the paper.
 
-`[TO CONFIRM: group policy on (i) which machine is the canonical home for raw data during a project, (ii) backups of data/, (iii) where raw data is archived at the end of a project or when a member leaves, and for how long.]`
+4. **Back everything up, raw data too.** Back up the project, `data/` included,
+   to the hard drives the group provides or to a group machine. Write in the
+   README (§7) where the canonical copy and its backup are.
 
 **Why:** clusters purge scratch, disks fail, laptops get stolen, and people leave. Trajectories
 that exist only in a cluster scratch directory under a former member's account
