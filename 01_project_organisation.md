@@ -346,8 +346,10 @@ The same project can therefore exist in several places at once. Five rules:
    to the hard drives the group provides or to a group machine. Write in the
    README (§7) where the canonical copy and its backup are.
 
-5. **Before you leave the group, hand your projects over.** Your desktop
-   will eventually be reassigned or wiped, so your projects must outlive it. In
+5. **Before you leave the group, hand your projects over.** Group computers,
+   normally including your desktop, are reassigned or wiped when you leave, and
+   a laptop of your own leaves with you. Either way, your projects must not
+   depend on any machine you use. In
    the weeks before you leave, sit down with the PI and agree how each project
    is handed over: what goes into a final, complete backup, where it is stored,
    and what still needs writing down so someone else can continue the work. Do
