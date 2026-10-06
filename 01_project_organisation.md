@@ -322,7 +322,7 @@ own desktop or laptop and run on a GPU server or an HPC cluster. Clusters have
 their own submission rules; read and follow them, they are outside the scope of
 this document.
 
-The same project can therefore exist in several places at once. Four rules:
+The same project can therefore exist in several places at once. Five rules:
 
 1. **Same relative layout everywhere.** `~/Research/Projects/<Category>/<Project>/`
    with the same internal structure on every machine. A script that works on one
@@ -345,6 +345,14 @@ The same project can therefore exist in several places at once. Four rules:
 4. **Back everything up, raw data too.** Back up the project, `data/` included,
    to the hard drives the group provides or to a group machine. Write in the
    README (§7) where the canonical copy and its backup are.
+
+5. **Before you leave the group, hand your projects over.** Your desktop
+   will eventually be reassigned or wiped, so your projects must outlive it. In
+   the weeks before you leave, sit down with the PI and agree how each project
+   is handed over: what goes into a final, complete backup, where it is stored,
+   and what still needs writing down so someone else can continue the work. Do
+   this while you still remember the details. There is no fixed procedure yet;
+   it depends on the project, so talk about it early.
 
 **Why:** clusters purge scratch, disks fail, laptops get stolen, and people leave. Trajectories
 that exist only in a cluster scratch directory under a former member's account
@@ -505,6 +513,15 @@ Print this page and keep it next to your screen.
 - [ ] If it replaces an earlier version, the version number was bumped and the
       reason recorded in the notebook.
 - [ ] You can say which trajectories went into it without looking it up.
+
+### Before you leave the group
+
+- [ ] You have discussed with the PI, well before your last day, how each of
+      your projects will be handed over.
+- [ ] Every project, `data/` included, has a final complete backup in the
+      agreed place, and its README says where.
+- [ ] Each README and lab notebook is up to date enough for someone else to
+      continue the work without you.
 
 ### The five-minute test
 
