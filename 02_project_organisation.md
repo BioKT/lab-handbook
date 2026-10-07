@@ -1,6 +1,6 @@
 # BIOKT Lab Handbook, Chapter 2: Files, Folders and Project Organisation for Computational Work
 
-**Status:** draft · **Last revised:** 2026-10-07
+**Status:** v1 · **Last revised:** 2026-10-07
 
 ---
 
