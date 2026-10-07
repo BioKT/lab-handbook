@@ -1,7 +1,7 @@
 # BIOKT Lab Handbook
 
 How we work in the BIOKT group (UPV/EHU – DIPC): the conventions behind our
-simulation projects, and the reasons for them.
+computational projects (simulation and quantum chemistry), and the reasons for them.
 
 Most of what is written here is the product of years of experience that is
 usually passed on by word of mouth, if at all. Each chapter states a set of
@@ -12,7 +12,9 @@ sensibly in situations the rules never anticipated.
 
 | # | Chapter | Status |
 |---|---------|--------|
-| 1 | [Files, folders and project organisation](01_project_organisation.md) | draft |
+| 1 | Arrival: administrative procedures | planned |
+| 2 | [Files, folders and project organisation for computational work](02_project_organisation.md) | draft |
+| 3 | Checklist for MD simulations | planned |
 
 ## Contributing
 

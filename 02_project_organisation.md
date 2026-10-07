@@ -1,6 +1,6 @@
-# BIOKT Lab Handbook, Chapter 1: Files, Folders and Project Organisation
+# BIOKT Lab Handbook, Chapter 2: Files, Folders and Project Organisation for Computational Work
 
-**Status:** draft · **Last revised:** 2026-10-06
+**Status:** draft · **Last revised:** 2026-10-07
 
 ---
 
@@ -16,8 +16,14 @@ anticipated.
 All of the rules follow from one principle:
 
 > **Any number or figure that ends up in a paper must be traceable back to the
-> exact trajectory it came from, the inputs that produced that trajectory, and
-> the code that analysed it, by someone other than you.**
+> exact raw output it came from (a trajectory, a QM output file), the inputs that
+> produced that output, and the code that analysed it, by someone other than you.**
+
+The examples in this chapter come from molecular dynamics, because that is most
+of what the group runs. The rules are not specific to MD: they apply to any
+calculation that turns input files into output files, quantum chemistry
+included (ORCA, Gaussian, PySCF: inputs, `.log`/`.out` files, checkpoints, cube
+files). Where an example says "trajectory", read "raw output".
 
 "Someone other than you" matters. That person might be:
 
@@ -30,7 +36,7 @@ All of the rules follow from one principle:
 
 If none of these people can answer "where did this figure come from?" in a few
 minutes, the result can't be checked, which in practice means it can't be
-reused. Simulations cost weeks of GPU time. Losing track of one is expensive.
+reused. Simulations and calculations cost weeks of GPU and CPU time. Losing track of one is expensive.
 
 ---
 
@@ -155,7 +161,7 @@ running the scripts one after another.
 
 ---
 
-## 3. Naming simulation files
+## 3. Naming calculation outputs
 
 ### 3.1 The anti-pattern
 
@@ -528,12 +534,12 @@ Print this page and keep it next to your screen.
 ### The five-minute test
 
 > **Pick any figure you have. Can you, in under five minutes, identify
-> (1) the trajectory files it came from, (2) the input files that produced those
-> trajectories, and (3) the script or notebook that made the figure?**
+> (1) the raw output files (trajectories, QM outputs) it came from, (2) the input
+> files that produced them, and (3) the script or notebook that made the figure?**
 
 If you can, your project is in good shape. If you can't, fix it now, while you
 still remember. The next person to try will be someone who doesn't.
 
 ---
 
-*BIOKT Lab Handbook, BIOKT group (UPV/EHU – DIPC). Chapter 1.*
+*BIOKT Lab Handbook, BIOKT group (UPV/EHU – DIPC). Chapter 2.*
