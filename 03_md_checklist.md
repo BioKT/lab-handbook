@@ -133,7 +133,7 @@ preparing anything:
       size the box for the expanded conformations you expect, and monitor the
       minimum image distance during production.
 
-  ![A simulated box surrounded by its periodic images](figures/periodic_boundary_conditions.png)
+  <img src="figures/periodic_boundary_conditions.png" alt="A simulated box surrounded by its periodic images" width="50%">
 
   *Figure 1. Periodic boundary conditions in two dimensions: the simulated
   system is surrounded by identical copies of itself. If the chain extends
@@ -409,7 +409,7 @@ costs far more than the check.
 - [ ] If there is any ambiguity about whether a key property is still
       changing, **extend equilibration**.
 
-  ![A quickly equilibrating property fluctuating around a constant value, and a slowly equilibrating one still drifting](figures/equilibration_trends.png)
+  <img src="figures/equilibration_trends.png" alt="A quickly equilibrating property fluctuating around a constant value, and a slowly equilibrating one still drifting" width="50%">
 
   *Figure 2. Two properties of the same hypothetical simulation. The top one
   settles quickly and then fluctuates around a constant value; the bottom one
