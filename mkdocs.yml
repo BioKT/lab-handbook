@@ -1,0 +1,45 @@
+site_name: BIOKT Lab Handbook
+site_description: How we work in the BIOKT group (UPV/EHU – DIPC)
+site_url: https://biokt.github.io/lab-handbook/
+repo_url: https://github.com/BioKT/lab-handbook
+edit_uri: edit/main/
+
+# The chapters live at the repository root so they stay readable on GitHub;
+# the same-dir plugin lets MkDocs build from there.
+docs_dir: .
+exclude_docs: |
+  requirements.txt
+  mkdocs.yml
+
+nav:
+  - Home: README.md
+  - "1. Arrival and routines": 01_arrival_and_routines.md
+  - "2. Project organisation": 02_project_organisation.md
+  - "3. MD checklist": 03_md_checklist.md
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - search.highlight
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle: {icon: material/weather-night, name: Dark mode}
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle: {icon: material/weather-sunny, name: Light mode}
+
+plugins:
+  - same-dir
+  - search
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
