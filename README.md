@@ -12,7 +12,7 @@ sensibly in situations the rules never anticipated.
 
 | # | Chapter | Status |
 |---|---------|--------|
-| 1 | Arrival: administrative procedures | planned |
+| 1 | [Arrival, accounts and group routines](01_arrival_and_routines.md) | draft |
 | 2 | [Files, folders and project organisation for computational work](02_project_organisation.md) | v1 |
 | 3 | Checklist for MD simulations | planned |
 
