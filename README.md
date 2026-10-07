@@ -8,6 +8,9 @@ usually passed on by word of mouth, if at all. Each chapter states a set of
 practices together with *why* we follow them, so that you can apply them
 sensibly in situations the rules never anticipated.
 
+Read it online at <https://biokt.github.io/lab-handbook/>; the Markdown
+sources live at <https://github.com/BioKT/lab-handbook>.
+
 ## Chapters
 
 | # | Chapter | Status |
