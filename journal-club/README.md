@@ -23,13 +23,29 @@ Edits can be made directly on GitHub. Papers are listed by DOI only; do not comm
 
 `papers.md` identifies presenters by initials.
 
+**Current members**
+
 | Initials | Name |
 |---|---|
 | DDS | David De Sancho |
-| DR | David Ruiz |
-| DSB | David S. Brea |
-| JC | Juan Carlos |
-| LA | Lydia |
-| S | Sujal |
-| SS | Sourish |
 | XL | Xabier López |
+| JU | Jon Uranga |
+| JCJ | Juan Carlos Jiménez García |
+| DGO | Dulce Guzmán Ocampo |
+| DR | David Ruiz |
+| SS | Sourish |
+| LA | Lydia Armentia |
+
+**Former members**
+
+| Initials | Name |
+|---|---|
+| MFP | Mario Fernández Pendás |
+| DSB | David Silva Brea |
+| IM | Ion Mitxelena |
+| JA | Julen Adúriz |
+| AFC | Alba Fernández Calvo |
+| IR | Irene Ruiz Ortiz |
+| AU | Asier Urriolabeitia |
+| GDT | Gabriele Dalla Torre |
+| S | Sujal |
