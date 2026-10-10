@@ -1,6 +1,6 @@
 # BIOKT Lab Handbook, Chapter 3: Checklist for MD Simulations
 
-**Status:** draft · **Last revised:** 2026-10-07
+**Status:** v1 · **Last revised:** 2026-10-10
 
 ---
 

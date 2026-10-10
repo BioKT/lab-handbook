@@ -1,6 +1,6 @@
 # BIOKT Lab Handbook, Chapter 1: Arrival, Accounts and Group Routines
 
-**Status:** draft · **Last revised:** 2026-10-07
+**Status:** v1 · **Last revised:** 2026-10-10
 
 ---
 
@@ -54,7 +54,7 @@ Almost all computational work in the group happens on remote machines, reached
 over SSH from your own computer. Set this up once, properly, and you will not
 think about it again.
 
-> **To be completed.** Host names, user-name conventions and any VPN or gateway
+> **Note.** Host names, user-name conventions and any VPN or gateway
 > requirements will be given to you on arrival rather than written here.
 
 ### 3.1 Getting an SSH client

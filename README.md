@@ -15,9 +15,9 @@ sources live at <https://github.com/BioKT/lab-handbook>.
 
 | # | Chapter | Status |
 |---|---------|--------|
-| 1 | [Arrival, accounts and group routines](01_arrival_and_routines.md) | draft |
+| 1 | [Arrival, accounts and group routines](01_arrival_and_routines.md) | v1 |
 | 2 | [Files, folders and project organisation for computational work](02_project_organisation.md) | v1 |
-| 3 | [Checklist for MD simulations](03_md_checklist.md) | draft |
+| 3 | [Checklist for MD simulations](03_md_checklist.md) | v1 |
 
 ## Journal club
 
