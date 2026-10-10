@@ -20,6 +20,10 @@ nav:
   - "1. Arrival and routines": 01_arrival_and_routines.md
   - "2. Project organisation": 02_project_organisation.md
   - "3. MD checklist": 03_md_checklist.md
+  - Journal club:
+      - journal-club/README.md
+      - Rota: journal-club/rota.md
+      - Papers: journal-club/papers.md
 
 theme:
   name: material

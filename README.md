@@ -19,6 +19,11 @@ sources live at <https://github.com/BioKT/lab-handbook>.
 | 2 | [Files, folders and project organisation for computational work](02_project_organisation.md) | v1 |
 | 3 | [Checklist for MD simulations](03_md_checklist.md) | draft |
 
+## Journal club
+
+[`journal-club/`](journal-club/README.md) is not a chapter but a record: the
+rota for the long slot of the group meeting, and every paper presented since 2020.
+
 ## Contributing
 
 The handbook is meant to evolve. If something is unclear, out of date or
