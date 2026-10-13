@@ -8,6 +8,7 @@ Transcribed from the group website in October 2026; citations are as entered the
 
 | Date | Presenter | Paper | DOI |
 |---|---|---|---|
+| 2026-10-13 | DDS | Scalable Constant pH Molecular Dynamics in GROMACS. N. Aho, P. Buslaev, A. Jansen, P. Bauer, G. Groenhof & B. Hess. J. Chem. Theory Comput. 18, 10, 6148–6160 (2022). | [10.1021/acs.jctc.2c00516](https://doi.org/10.1021/acs.jctc.2c00516) |
 | 2026-10-06 | LA | Interaction of aromatic units of amino acids with guanidinium cation: The interplay of π···π, XH···π, and M+···π contacts. A. Campo-Cacharrón, E. M. Cabaleiro-Lago, J. A. Carrazana-García & J. Rodríguez-Otero. J. Comput. Chem. 35, 17, 1290–1301 (2014). | [10.1002/jcc.23623](https://doi.org/10.1002/jcc.23623) |
 | 2026-09-29 | JCJ | The role of distant mutations and allosteric regulation on LovD active site dynamics. G. Jiménez-Osés, S. Osuna, X. Gao, M. R. Sawaya, L. Gilson, S. J. Collier, G. W. Huisman, T. O. Yeates, Y. Tang & K. N. Houk. Nat. Chem. Biol. 10, 431–436 (2014). | [10.1038/nchembio.1503](https://doi.org/10.1038/nchembio.1503) |
 | 2026-09-22 | SS | DEER-PREdict: Software for efficient calculation of spin-labeling EPR and NMR data from conformational ensembles. G. Tesei, J. M. Martins, M. B. A. Kunze, Y. Wang, R. Crehuet & K. Lindorff-Larsen. PLoS Comput. Biol. 17, 1, e1008551 (2021). | [10.1371/journal.pcbi.1008551](https://doi.org/10.1371/journal.pcbi.1008551) |

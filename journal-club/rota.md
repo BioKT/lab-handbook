@@ -16,17 +16,16 @@ session, move its row to [`papers.md`](papers.md).
 
 | Date | Presenter | Paper | DOI |
 |---|---|---|---|
-| 2026-10-13 | David De Sancho | Scalable Constant pH Molecular Dynamics in GROMACS. N. Aho, P. Buslaev, A. Jansen, P. Bauer, G. Groenhof & B. Hess. J. Chem. Theory Comput. 18, 10, 6148–6160 (2022). | [10.1021/acs.jctc.2c00516](https://doi.org/10.1021/acs.jctc.2c00516) |
-| 2026-10-20 | Xabier | | |
-| 2026-10-27 | David Ruiz | | |
-| 2026-11-03 | Sourish | | |
-| 2026-11-10 | Juan Carlos | | |
-| 2026-11-17 | Lydia | | |
-| 2026-11-24 | David De Sancho | | |
-| 2026-12-01 | Xabier | | |
+| 2026-10-20 | David Ruiz | | |
+| 2026-10-27 | Sourish | | |
+| 2026-11-03 | Juan Carlos | | |
+| 2026-11-10 | Lydia | | |
+| 2026-11-17 | David De Sancho | | |
+| 2026-11-24 | Xabier | | |
+| 2026-12-01 | David Ruiz | | |
 | ~~2026-12-08~~ | *no meeting (Inmaculada Concepción)* | | |
-| 2026-12-15 | David Ruiz | | |
+| 2026-12-15 | Sourish | | |
 | ~~2026-12-22~~ | *no meeting (Christmas)* | | |
 | ~~2026-12-29~~ | *no meeting (Christmas)* | | |
 
-Resumes January 2027 with Sourish.
+Resumes January 2027 with Juan Carlos.
