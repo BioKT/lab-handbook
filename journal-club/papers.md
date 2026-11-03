@@ -8,7 +8,7 @@ Transcribed from the group website in October 2026; citations are as entered the
 
 | Date | Presenter | Paper | DOI |
 |---|---|---|---|
-| 2026-11-03 | SS | Hydrophobicity in Intrinsically Disordered Protein Force Fields: Implications for Conformational Ensembles and Protein–Protein Interactions. Lobo, S., Najafi, S., Shell, M. S., & Shea, J. E. (2025). The Journal of Physical Chemistry. B, 129(27), 6817. | 10.1021/acs.jpcb.5c02360 |
+| 2026-11-03 | SS | Hydrophobicity in Intrinsically Disordered Protein Force Fields: Implications for Conformational Ensembles and Protein–Protein Interactions. Lobo, S., Najafi, S., Shell, M. S., & Shea, J. E. (2025). The Journal of Physical Chemistry. B, 129(27), 6817. | /10.1021/acs.jpcb.5c02360 |
 | 2026-10-27 | DR | Molecular origins of pH gradients in charge-regulated biomolecular condensates. S.-L. Weng, S. Rekhi, Y. C. Kim, J. C. Palmer & J. Mittal. J. Chem. Phys. 165, 114107 (2026). | [10.1063/5.0350732](https://doi.org/10.1063/5.0350732) |
 | 2026-10-13 | DDS | Scalable Constant pH Molecular Dynamics in GROMACS. N. Aho, P. Buslaev, A. Jansen, P. Bauer, G. Groenhof & B. Hess. J. Chem. Theory Comput. 18, 10, 6148–6160 (2022). | [10.1021/acs.jctc.2c00516](https://doi.org/10.1021/acs.jctc.2c00516) |
 | 2026-10-06 | LA | Interaction of aromatic units of amino acids with guanidinium cation: The interplay of π···π, XH···π, and M+···π contacts. A. Campo-Cacharrón, E. M. Cabaleiro-Lago, J. A. Carrazana-García & J. Rodríguez-Otero. J. Comput. Chem. 35, 17, 1290–1301 (2014). | [10.1002/jcc.23623](https://doi.org/10.1002/jcc.23623) |
