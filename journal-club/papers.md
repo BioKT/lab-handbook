@@ -8,6 +8,7 @@ Transcribed from the group website in October 2026; citations are as entered the
 
 | Date | Presenter | Paper | DOI |
 |---|---|---|---|
+| 2026-11-10 | JCJ | Optimizing the Martini 3 Force Field Reveals the Effects of the Intricate Balance between Protein–Water Interaction Strength and Salt Concentration on Biomolecular Condensate Formation. G. H. Zerze. J. Chem. Theory Comput. 20, 4, 1646–1655 (2024). | [10.1021/acs.jctc.2c01273](https://doi.org/10.1021/acs.jctc.2c01273) |
 | 2026-11-03 | SS | Hydrophobicity in Intrinsically Disordered Protein Force Fields: Implications for Conformational Ensembles and Protein–Protein Interactions. Lobo, S., Najafi, S., Shell, M. S., & Shea, J. E. (2025). The Journal of Physical Chemistry. B, 129(27), 6817. | [10.1021/acs.jpcb.5c02360](https://doi.org/10.1021/acs.jpcb.5c02360)|
 | 2026-10-27 | DR | Molecular origins of pH gradients in charge-regulated biomolecular condensates. S.-L. Weng, S. Rekhi, Y. C. Kim, J. C. Palmer & J. Mittal. J. Chem. Phys. 165, 114107 (2026). | [10.1063/5.0350732](https://doi.org/10.1063/5.0350732) |
 | 2026-10-13 | DDS | Scalable Constant pH Molecular Dynamics in GROMACS. N. Aho, P. Buslaev, A. Jansen, P. Bauer, G. Groenhof & B. Hess. J. Chem. Theory Comput. 18, 10, 6148–6160 (2022). | [10.1021/acs.jctc.2c00516](https://doi.org/10.1021/acs.jctc.2c00516) |
